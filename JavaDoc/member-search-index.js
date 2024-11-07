@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.example","c":"MasterSword","l":"MasterSword()","u":"%3Cinit%3E()"},{"p":"org.example","c":"ProxyMasterSword","l":"ProxyMasterSword()","u":"%3Cinit%3E()"},{"p":"org.example","c":"Item","l":"use()"},{"p":"org.example","c":"MasterSword","l":"use()"},{"p":"org.example","c":"ProxyMasterSword","l":"use()"}];updateSearchResults();
